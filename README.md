@@ -7,7 +7,7 @@ The HVSS Calculator is using AI/ML models trained to predict the risk score for 
 There are five different models get created by the lab, on separate files:
 
 - **XCIA Model (xcia_model.pkl)**: Predicts the risk score for the XCIA (original CIA) impact type
-- **XPS Model (xhb_model.pkl)**: Predicts the risk score for the XPS (parient safety) impact type
+- **XPS Model (xps_model.pkl)**: Predicts the risk score for the XPS (parient safety) impact type
 - **XSD Model (xsd_model.pkl)**: Predicts the risk score for the XSD (sensitive data breach) impact type
 - **XHB Model (xhb_model.pkl)**: Predicts the risk score for the XHB (hospital breach) impact type
 - **Expolitability Model (exploitability_model.pkl)**: Predicts the risk score only for the Expolitability ingredient
