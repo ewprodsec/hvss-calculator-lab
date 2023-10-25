@@ -41,4 +41,16 @@ Beside of Jupyter Notebook installation, you should also install the external py
 Congratulations! You successfully created the models, and they are now located under the ```models``` folder. But, how can you test it?
 For this we also created ```hvss-cli.py```, a simple python CLI applciation which you can find under the ```test``` folder. Just run the file and play with the various options to get risk scores. ***Remember to install the requirements.txt file before running the CLI app!***
 
+## Acknowledgments
+This project was originally created by the HVSS Working Group, founded by the Product Security Team of [Edwards Lifesciences](https://www.edwards.com):
+- Oleg Yusim
+- Roman Ivanenko
+- Tejas Bharambe
+- Jacob Barkai
+- Samuel Takachicha
+- Aleksey Haytman
+- Isaias Rivera
+- Maddy Tamilthurai
+- Vinitha Mathiyazhagan
+
 ## Good luck and happy modeling!
